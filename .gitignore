@@ -1,0 +1,5 @@
+RequestSimulator/bin/Debug/
+RequestSimulator/obj/
+RestSimpleServer/bin/Debug/
+RestSimpleServer/obj/
+RestSimpleServer/customers.json
